@@ -14,8 +14,6 @@
     </dependency>
  </dependencies>
  <build>
-   <finalName>student</finalName>
-     <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
