@@ -14,6 +14,6 @@
     </dependency>
  </dependencies>
  <build>
-   <finalname>student</finalname>
+   <finalName>student</finalName>
   </build>
 </project>
