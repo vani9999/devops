@@ -7,7 +7,7 @@ do
 	echo "===========-------------"
 	echo "Creating www.employee$i container..."
 	sleep 1;
-docker run -it --name www.employee$i -it vani99/employee-img /bin/bash
+docker run -it --name www.employee$i -it employee-img /bin/bash
 echo "www.employee$i container has been created"
 echo "========================="
 done
